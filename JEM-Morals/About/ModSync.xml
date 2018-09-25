@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModSyncNinjaData>
+  <ID>273f8d81-75c9-473b-acb6-937093bc776f</ID>
+  <ModName>JEM Morals</ModName>
+  <Version>1.0.0.0</Version>
+  <SaveBreaking>False</SaveBreaking>
+  <Host name="Github">
+    <Owner>Amnesiac9</Owner>
+    <Project>JEM-Morals</Project>
+    <AboutDir>JEM-Morals/About</AboutDir>
+    <DownloadFrom>ModSyncReleases</DownloadFrom>
+    <Branch>master</Branch>
+  </Host>
+</ModSyncNinjaData>
