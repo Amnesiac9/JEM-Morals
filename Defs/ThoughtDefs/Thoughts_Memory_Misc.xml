@@ -2,6 +2,7 @@
 <Defs>
 
 	<ThoughtDef>
+		<defName>AteWithoutTable</defName>
 		<durationDays>1</durationDays>
 		<stackLimit>1</stackLimit>
 		<stages>
