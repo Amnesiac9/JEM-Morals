@@ -9,7 +9,7 @@
 
   <ThoughtDef ParentName="DeathMemory">
     <defName>KnowGuestExecuted</defName>
-    <durationDays>6</durationDays>
+    <durationDays>5</durationDays>
     <nullifyingTraits>
       <li>Psychopath</li>
       <li>Bloodlust</li>
@@ -18,22 +18,22 @@
 			<li>
 				<label>justified execution</label>
 				<description>A guilty prisoner or guest was executed. It was justified, but still sad.</description>
-				<baseMoodEffect>-2</baseMoodEffect>
+				<baseMoodEffect>-1</baseMoodEffect>
 			</li>
       <li>
         <label>someone was euthanized</label>
         <!-- generic humane -->
         <description>A prisoner or guest was euthanized. It was humane, but still sad.</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <baseMoodEffect>-2</baseMoodEffect>
       </li>
       <li>
         <label>someone was executed</label>
         <!-- generic brutal -->
         <description>A prisoner or guest was killed in cold blood. It seemed a bit evil.</description>
-        <baseMoodEffect>-5</baseMoodEffect>
+        <baseMoodEffect>-3</baseMoodEffect>
       </li>
       <li>
-        <label>someone had vital organ harvested</label>
+        <label>someone's vital organ harvested</label>
         <!-- died because of organ harvesting -->
         <description>A prisoner or guest died because the colony took body parts from him. Maybe they were going to die anyway. </description>
         <baseMoodEffect>-3</baseMoodEffect>
@@ -43,7 +43,7 @@
 
   <ThoughtDef ParentName="DeathMemory">
     <defName>KnowColonistExecuted</defName>
-    <durationDays>6</durationDays>
+    <durationDays>5</durationDays>
     <stackLimit>5</stackLimit>
     <nullifyingTraits>
       <li>Psychopath</li>
@@ -67,7 +67,7 @@
         <baseMoodEffect>-5</baseMoodEffect>
       </li>
       <li>
-        <label>colonist organ-harvested</label>
+        <label>colonist's vital organ harvested</label>
         <!-- died because of organ harvesting -->
         <description>A colonist died because someone took body parts from him. Maybe they were going to die anyway.</description>
         <baseMoodEffect>-3</baseMoodEffect>
@@ -77,7 +77,7 @@
 
   <ThoughtDef ParentName="DeathMemory">
     <defName>KnowPrisonerDiedInnocent</defName>
-    <durationDays>6</durationDays>
+    <durationDays>5</durationDays>
     <stackLimit>5</stackLimit>
     <nullifyingTraits>
       <li>Psychopath</li>
@@ -94,7 +94,7 @@
 
   <ThoughtDef ParentName="DeathMemory">
     <defName>KnowColonistDied</defName>
-    <durationDays>6</durationDays>
+    <durationDays>5</durationDays>
     <stackLimit>5</stackLimit>
     <nullifyingTraits>
       <li>Psychopath</li>
@@ -114,7 +114,7 @@
   <ThoughtDef ParentName="DeathMemory">
     <defName>BondedAnimalDied</defName>
 		<showBubble>true</showBubble>
-    <durationDays>20</durationDays>
+    <durationDays>15</durationDays>
     <stackLimit>5</stackLimit>
     <stackLimitForSameOtherPawn>1</stackLimitForSameOtherPawn>
     <nullifyingTraits>
