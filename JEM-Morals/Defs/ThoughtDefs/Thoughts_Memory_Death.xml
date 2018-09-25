@@ -33,7 +33,7 @@
         <baseMoodEffect>-5</baseMoodEffect>
       </li>
       <li>
-        <label>someone had a vital organ harvested</label>
+        <label>someone had vital organ harvested</label>
         <!-- died because of organ harvesting -->
         <description>A prisoner or guest died because the colony took body parts from him. Maybe they were going to die anyway. </description>
         <baseMoodEffect>-3</baseMoodEffect>
