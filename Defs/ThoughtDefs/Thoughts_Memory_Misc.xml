@@ -9,7 +9,7 @@
 			<li>
 				<label>ate without table</label>
 				<description>I had to eat a meal off the ground. Can't we get a table around here?</description>
-				<baseMoodEffect>-3</baseMoodEffect>
+				<baseMoodEffect>-2</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -109,7 +109,7 @@
 
 	<ThoughtDef>
 		<defName>KnowPrisonerSold</defName>
-		<durationDays>4</durationDays>
+		<durationDays>3</durationDays>
 		<stackLimit>5</stackLimit>
 		<nullifyingTraits>
 			<li>Psychopath</li>
@@ -118,14 +118,14 @@
 			<li>
 				<label>a prisoner was sold</label>
 				<description>This colony sold a prisoner into slavery. That's a worrying thought.</description>
-				<baseMoodEffect>-3</baseMoodEffect>
+				<baseMoodEffect>-2</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
 
 	<ThoughtDef>
 		<defName>KnowGuestOrganHarvested</defName>
-		<durationDays>8</durationDays>
+		<durationDays>6</durationDays>
 		<stackLimit>5</stackLimit>
 		<stackedEffectMultiplier>0.75</stackedEffectMultiplier>
 		<nullifyingTraits>
@@ -134,8 +134,8 @@
 		<stages>
 			<li>
 				<label>someone's organ harvested</label>
-				<description>The colony took body parts from a guest or prisoner. It's horrible, breaking someone down for parts when they have no choice.</description>
-				<baseMoodEffect>-5</baseMoodEffect>
+				<description>The colony took body parts from a guest or prisoner. Maybe it was for someone in need.</description>
+				<baseMoodEffect>-2</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -172,7 +172,7 @@
 
 	<ThoughtDef>
 		<defName>WasImprisoned</defName>
-		<durationDays>6</durationDays>
+		<durationDays>4</durationDays>
 		<stackLimit>1</stackLimit>
 		<stages>
 			<li>
@@ -215,7 +215,7 @@
 
 	<ThoughtDef>
 		<defName>KnowBuriedInSarcophagus</defName>
-		<durationDays>1</durationDays>
+		<durationDays>3</durationDays>
 		<stackLimit>10</stackLimit>
 		<stages>
 			<li>
@@ -262,7 +262,7 @@
 
 	<ThoughtDef>
 		<defName>KnowButcheredHumanlikeCorpse</defName>
-		<durationDays>6</durationDays>
+		<durationDays>3</durationDays>
 		<stackLimit>1</stackLimit>
 		<nullifyingTraits>
 			<li>Psychopath</li>
@@ -273,7 +273,7 @@
 			<li>
 				<label>we butchered humanlike</label>
 				<description>We butchered someone up like an animal.</description>
-				<baseMoodEffect>-6</baseMoodEffect>
+				<baseMoodEffect>-2</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -298,7 +298,7 @@
 			<li>
 				<label>observed corpse</label>
 				<description>I saw a dead body laying on the ground. It was disturbing.</description>
-				<baseMoodEffect>-4</baseMoodEffect>
+				<baseMoodEffect>-2</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -318,7 +318,7 @@
 			<li>
 				<label>observed rotting corpse</label>
 				<description>I saw a rotting corpse laying on the ground. It was disgusting.</description>
-				<baseMoodEffect>-6</baseMoodEffect>
+				<baseMoodEffect>-4</baseMoodEffect>
 			</li>
 		</stages>
 	</ThoughtDef>
@@ -460,7 +460,7 @@
       <li>
         <label>colonist banished</label>
         <description>We just banished someone. I hope they'll make it, but I'm worried.</description>
-        <baseMoodEffect>-3</baseMoodEffect>
+        <baseMoodEffect>-2</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -477,7 +477,7 @@
       <li>
         <label>colonist banished to death</label>
         <description>We banished someone in such a way that there's almost no way they'll survive.</description>
-        <baseMoodEffect>-6</baseMoodEffect>
+        <baseMoodEffect>-4</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -494,7 +494,7 @@
       <li>
         <label>prisoner banished to death</label>
         <description>We banished a prisoner in such a way that there's almost no way they'll survive.</description>
-        <baseMoodEffect>-4</baseMoodEffect>
+        <baseMoodEffect>-2</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

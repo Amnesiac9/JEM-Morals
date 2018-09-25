@@ -33,10 +33,10 @@
         <baseMoodEffect>-5</baseMoodEffect>
       </li>
       <li>
-        <label>someone organ-harvested</label>
+        <label>someone had a vital organ harvested</label>
         <!-- died because of organ harvesting -->
-        <description>A prisoner or guest died because the colony took body parts from him. It's horrible.</description>
-        <baseMoodEffect>-6</baseMoodEffect>
+        <description>A prisoner or guest died because the colony took body parts from him. Maybe they were going to die anyway. </description>
+        <baseMoodEffect>-3</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -69,8 +69,8 @@
       <li>
         <label>colonist organ-harvested</label>
         <!-- died because of organ harvesting -->
-        <description>A colonist died because someone took body parts from him. It's horrible.</description>
-        <baseMoodEffect>-6</baseMoodEffect>
+        <description>A colonist died because someone took body parts from him. Maybe they were going to die anyway.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -87,7 +87,7 @@
       <li>
         <label>innocent prisoner died</label>
         <description>One of our prisoners died despite being harmless. We should be able to take care of our prisoners. If we wanted them dead, we could have at least conducted an orderly execution rather than permit that barbarism.</description>
-        <baseMoodEffect>-5</baseMoodEffect>
+        <baseMoodEffect>-3</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
@@ -124,7 +124,7 @@
       <li>
         <label>bonded animal {0} died</label>
         <description>Such a tender, unique animal. This universe is evil!</description>
-        <baseMoodEffect>-8</baseMoodEffect>
+        <baseMoodEffect>-6</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>
