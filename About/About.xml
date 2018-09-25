@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>JEM Morals</name>
+	<author>Amnesiac</author>
+	<targetVersion>0.19.0</targetVersion>
+	<description>V1.0
+    This mod changes the morals of settlers. Butchering Humanlike no longer effects everyone in the colony the same. The person doing the butchering is still heavily affected, but the others not so much.
+	Selling or harvesting organs of prisoners is also not as bad. Maybe its for a good cause?
+		</description>
+</ModMetaData>
