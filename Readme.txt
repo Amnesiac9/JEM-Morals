@@ -1,4 +1,11 @@
-Thoughts_Memory_death.xml
+Changes a few of the mood effects that affect pawns when the do certain acts, like harvest organs, or eat without a table. 
+
+Changes Listed Below: The first one is original, second is the changes.
+
+
+Thoughts_Memory_Death.xml
+
+
          <baseMoodEffect>-5</baseMoodEffect>
       </li>
       <li>
