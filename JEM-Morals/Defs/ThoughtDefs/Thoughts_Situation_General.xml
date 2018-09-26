@@ -12,7 +12,7 @@
       <li>
         <label>darkness</label>
         <description>I've been in the dark for a while. I don't like it.</description>
-        <baseMoodEffect>-5</baseMoodEffect>
+        <baseMoodEffect>-3</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

@@ -2,6 +2,21 @@ Changes a few of the mood effects that affect pawns when the do certain acts, li
 
 Changes Listed Below: The first one is original, second is the changes.
 
+Thoughts_Situation_General.xml
+
+
+      <li>
+        <label>darkness</label>
+        <description>I've been in the dark for a while. I don't like it.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+
+
+
 
 Thoughts_Memory_Death.xml
 
