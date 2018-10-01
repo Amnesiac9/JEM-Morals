@@ -2,7 +2,7 @@ Changes a few of the mood effects that affect pawns when the do certain acts, li
 
 Changes Listed Below: The first one is original, second is the changes.
 
-Thoughts_Situation_General.xml
+Defs\ThoughtDefs\Thoughts_Situation_General.xml
 
 
       <li>
@@ -14,11 +14,17 @@ Thoughts_Situation_General.xml
     </stages>
   </ThoughtDef>
 
+Defs\ThoughtDefs\Thoughts_Memory_Social.xml
+    <stages>
+      <li>
+        <label>failed to romance me</label>
+        <baseOpinionOffset>-15</baseOpinionOffset>
+        <baseOpinionOffset>-5</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
 
-
-
-
-Thoughts_Memory_Death.xml
+Defs\ThoughtDefs\Thoughts_Memory_Death.xml
 
 
          <baseMoodEffect>-5</baseMoodEffect>

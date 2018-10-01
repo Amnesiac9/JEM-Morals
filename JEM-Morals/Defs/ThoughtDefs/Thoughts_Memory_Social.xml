@@ -362,7 +362,7 @@
     <stages>
       <li>
         <label>failed to romance me</label>
-        <baseOpinionOffset>-15</baseOpinionOffset>
+        <baseOpinionOffset>-5</baseOpinionOffset>
       </li>
     </stages>
   </ThoughtDef>
