@@ -14,7 +14,13 @@ Defs\ThoughtDefs\Thoughts_Situation_General.xml
     </stages>
   </ThoughtDef>
 
+  
+  
+  
+  
 Defs\ThoughtDefs\Thoughts_Memory_Social.xml
+
+
     <stages>
       <li>
         <label>failed to romance me</label>
@@ -24,6 +30,11 @@ Defs\ThoughtDefs\Thoughts_Memory_Social.xml
     </stages>
   </ThoughtDef>
 
+  
+    <durationDays>10</durationDays>
+    <durationDays>5</durationDays>  
+  
+  
 Defs\ThoughtDefs\Thoughts_Memory_Death.xml
 
 
