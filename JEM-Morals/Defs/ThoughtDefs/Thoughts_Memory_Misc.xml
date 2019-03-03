@@ -312,6 +312,7 @@
 		<stackedEffectMultiplier>0.5</stackedEffectMultiplier>
 		<stackLimit>5</stackLimit>
 		<nullifyingTraits>
+			<li>Psychopath</li>
 			<li>Bloodlust</li>
 		</nullifyingTraits>
 		<stages>
